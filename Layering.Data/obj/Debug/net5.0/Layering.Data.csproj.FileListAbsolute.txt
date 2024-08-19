@@ -1,0 +1,30 @@
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.deps.json
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.runtimeconfig.json
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.runtimeconfig.dev.json
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.dll
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\bin\Debug\net5.0\ref\Layering.Data.dll
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.pdb
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.csprojAssemblyReference.cache
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.AssemblyInfoInputs.cache
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.AssemblyInfo.cs
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.csproj.CoreCompileInputs.cache
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.dll
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\ref\Layering.Data.dll
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.pdb
+C:\Users\Zsolt Bari\source\repos\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.genruntimeconfig.cache
+C:\egyetem\Layering\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.deps.json
+C:\egyetem\Layering\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.runtimeconfig.json
+C:\egyetem\Layering\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.runtimeconfig.dev.json
+C:\egyetem\Layering\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.dll
+C:\egyetem\Layering\Layering\Layering.Data\bin\Debug\net5.0\ref\Layering.Data.dll
+C:\egyetem\Layering\Layering\Layering.Data\bin\Debug\net5.0\Layering.Data.pdb
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.csprojAssemblyReference.cache
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.AssemblyInfoInputs.cache
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.AssemblyInfo.cs
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.csproj.CoreCompileInputs.cache
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.dll
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\ref\Layering.Data.dll
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.pdb
+C:\egyetem\Layering\Layering\Layering.Data\obj\Debug\net5.0\Layering.Data.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\Layering.Logic.deps.json
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\Layering.Logic.dll
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\ref\Layering.Logic.dll
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\Layering.Logic.pdb
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\Layering.Data.dll
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\Layering.Repository.dll
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\Layering.Repository.pdb
+C:\egyetem\Layering\Layering\Layering.Logic\bin\Debug\net5.0\Layering.Data.pdb
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.csprojAssemblyReference.cache
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.AssemblyInfoInputs.cache
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.AssemblyInfo.cs
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.csproj.CoreCompileInputs.cache
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.csproj.CopyComplete
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.dll
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\ref\Layering.Logic.dll
+C:\egyetem\Layering\Layering\Layering.Logic\obj\Debug\net5.0\Layering.Logic.pdb

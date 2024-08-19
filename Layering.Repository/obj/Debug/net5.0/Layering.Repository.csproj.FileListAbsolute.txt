@@ -1,0 +1,15 @@
+C:\egyetem\Layering\Layering\Layering.Repository\bin\Debug\net5.0\Layering.Repository.deps.json
+C:\egyetem\Layering\Layering\Layering.Repository\bin\Debug\net5.0\Layering.Repository.dll
+C:\egyetem\Layering\Layering\Layering.Repository\bin\Debug\net5.0\ref\Layering.Repository.dll
+C:\egyetem\Layering\Layering\Layering.Repository\bin\Debug\net5.0\Layering.Repository.pdb
+C:\egyetem\Layering\Layering\Layering.Repository\bin\Debug\net5.0\Layering.Data.dll
+C:\egyetem\Layering\Layering\Layering.Repository\bin\Debug\net5.0\Layering.Data.pdb
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.csprojAssemblyReference.cache
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.AssemblyInfoInputs.cache
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.AssemblyInfo.cs
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.csproj.CoreCompileInputs.cache
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.csproj.CopyComplete
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.dll
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\ref\Layering.Repository.dll
+C:\egyetem\Layering\Layering\Layering.Repository\obj\Debug\net5.0\Layering.Repository.pdb

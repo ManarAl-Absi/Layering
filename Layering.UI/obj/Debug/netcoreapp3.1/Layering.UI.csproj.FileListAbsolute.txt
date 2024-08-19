@@ -1,0 +1,4 @@
+C:\egyetem\Layering\Layering\Layering.UI\obj\Debug\netcoreapp3.1\Layering.UI.csprojAssemblyReference.cache
+C:\egyetem\Layering\Layering\Layering.UI\obj\Debug\netcoreapp3.1\Layering.UI.AssemblyInfoInputs.cache
+C:\egyetem\Layering\Layering\Layering.UI\obj\Debug\netcoreapp3.1\Layering.UI.AssemblyInfo.cs
+C:\egyetem\Layering\Layering\Layering.UI\obj\Debug\netcoreapp3.1\Layering.UI.csproj.CoreCompileInputs.cache
